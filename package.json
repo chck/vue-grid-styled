@@ -14,7 +14,7 @@
   "author": "Matt Rothenberg <mattrothenberg@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/mattrothenberg/vue-grid-styled.git"
+    "url": "https://github.com/chck/vue-grid-styled.git"
   },
   "bugs": {
     "url": "https://github.com/mattrothenberg/vue-grid-styled/issues"
